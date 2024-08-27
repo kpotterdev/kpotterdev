@@ -1,16 +1,20 @@
 ### Welcome!
 
-![October 13, 2023  @reallygreatsite](https://github.com/user-attachments/assets/83c0b5be-ffef-498a-8019-e182088ba765)
+![October 13, 2023  @reallygreatsite (1)](https://github.com/user-attachments/assets/7b11d28a-74cd-407a-99c2-db99b5a5f424)
 
 My name is **Kenneth Potter**. 
 
-I have a huge interest in coding👩‍💻!  I specialize in web development.
+🌐 I am Frontend Developer with a passion for coding!  
 
-I am a Freelance Frontend Web Developer and Online Marketer.
+👨‍💻 Turning ideas into beautiful, responsive websites with a passion for clean code and pixel-perfect design.  
 
-I have an AAS Software Develpment degree and an AS Businees Administartion degree with a focus in Marketing. 🏫
+💡 Always learning and experimenting with the latest web technologies to craft seamless user experiences.
 
-Currently I'm studying ⚛️ReactJS and Mobile App Development.
+🎨 When I'm not coding, you'll find me exploring design trends, enjoying outdoor activities, or diving into new tech innovations.
+
+🏫 I have an AAS Software Develpment degree and an AS Businees Administartion degree with a focus in Marketing.
+
+🚀 Let's build something amazing together!
 
 
 **Skills:**  
